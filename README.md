@@ -36,7 +36,7 @@ I'm interesting in learning more about this:
 
 ## Education :mortar_board:
 
-In 2018 I've finished the last year of the Information Systems Engineer and I'm one final exam away from getting the degree, so wish me luck! :four_leaf_clover:
+I got my degree in Computer Information Systems Engineering in March 2022 🎉 at the Universidad Tecnológica Nacional - FRM.
 
 Also, I completed a bunch of online courses:
 
@@ -49,6 +49,13 @@ Also, I completed a bunch of online courses:
 - The Beginner Guide to React(Egghead) - 2018
 - MongoDB for Developers(MongoDB University) - May 2017
 
+## Job experience:
+
+I've worked doing frontend stuff in several companies such as:
+
+- [NerdWallet](https://www.nerdwallet.com/)(currently)
+- [Paypal](https://www.paypal.com/)
+- [Eventbrite](https://www.eventbrite.com)
 
 
 ### Connect with me
