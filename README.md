@@ -40,7 +40,7 @@ I got my degree in Computer Information Systems Engineering in March 2022 🎉 a
 
 Also, I completed a bunch of online courses:
 
-- Epic React(Kent C. Dodds) - In progress
+- Epic React(Kent C. Dodds) - June 2023
 - Webpack 4: Beyond the basics(Udemy) - Apr 2020
 - Webpack 4 in 2020: The complete tutorial for beginners(Udemy) - Feb 2020
 - End to end automation testing with Cypress(Udemy) - Feb 2020
